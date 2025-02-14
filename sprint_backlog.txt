@@ -1,0 +1,17 @@
+Historia Implementada
+
+ID 1 -  Mudança da cor do texto do nome dos veículos para azul
+
+ID 2 -  Redução dos detalhes dos veículos com menor quantidade de informações irrelevantes
+
+ID 3 -  Mudança de detalhe na pagina de contato para  facilitar o entendimento e a navegação do cliente
+
+Grau de Dificuldade 
+
+ID 1- (baixo)
+
+ID 2- (baixo)
+
+ID 3- (baixo)
+
+

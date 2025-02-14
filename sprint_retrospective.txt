@@ -1,0 +1,15 @@
+Funcionou bem 
+
+ > Melhorias dos controles das versões
+ > implementações na historia do usuario
+ > Maior integridade dos arquivos
+ > Melhorias das implementações
+
+ Não Funcionou
+ > O arquivo veiculo.html não existe
+ > Problema em contato.html, falta de um arquivo para indexar 
+
+ Sugestões e melhorias 
+ > Adicionamento do arquivo veiculo.html
+ > Junção do arquivo contato.html e index.html,além da inclusão de veiculos html formando um unico arquivo .html
+ > Possíbilidade de inclusão de um arquivo unico de css focado unicamente para a estilização.
